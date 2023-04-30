@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Giveing information about the school file
-# Uses if and, else (case is forbidden)
+# Giving information about the school file
+# Using if and, else (case is forbidden)
 # Bash script should check if the file exists and print:
   # if the file exists: school file exists
   # if the file does not exist: school file does not exist
